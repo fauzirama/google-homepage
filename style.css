@@ -1,0 +1,13 @@
+.main{
+    margin: auto;
+    width: 50%;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+form{
+    text-align: center;
+}
