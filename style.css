@@ -5,12 +5,16 @@
 
 .nav ul{
     list-style-type: none;
-    word-spacing: 30px;
 }
 
 .nav li{
     float: left;
     padding: 0 10px;
+}
+
+.nav li a{
+    text-decoration: none;
+    color: black;
 }
 
 .nav-right{
