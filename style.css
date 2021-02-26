@@ -1,3 +1,22 @@
+.nav{
+    margin: 10px 30px 40px 30px;
+    overflow: hidden;
+}
+
+.nav ul{
+    list-style-type: none;
+    word-spacing: 30px;
+}
+
+.nav li{
+    float: left;
+    padding: 0 10px;
+}
+
+.nav-right{
+    float: right;
+}
+
 .main{
     margin: auto;
     width: 50%;
