@@ -38,3 +38,25 @@ form{
 }
 
 /* Footer Section */
+.footer{
+    margin: 40px 30px 10px 30px;
+    overflow: hidden;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer li{
+    float: left;
+    padding: 0 10px;
+}
+
+.footer li a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-right{
+    float: right;
+}
